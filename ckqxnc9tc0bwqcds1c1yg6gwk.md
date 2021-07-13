@@ -2,7 +2,7 @@
 
 # The Problem
 
-New developers find it hard to decide on what to use and/or learn when starting a new full-stack project
+New developers find it hard to decide on what to use and/or learn when starting a new full-stack project.
 
 The project might be a side-project, university assignments, final year project, business idea, or hackathon project.
 
