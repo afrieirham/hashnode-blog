@@ -63,14 +63,15 @@ If you have no idea about what I'm saying, it is basically a value in hexadecima
 But in this case, we're going to make it simple.
 
 ***
-If it's white, the value will be 1
-If it's black, the value will be 0
+If it's white, the value will be 1.
+
+If it's black, the value will be 0.
 
 And anything else from off-white to dark gray will be valued within that range.
 
-Off white might be 0.12
-Dark gray might be 0.86
+Off white might be 0.12.
 
+Dark gray might be 0.86.
 ***
 
 You get the idea.
