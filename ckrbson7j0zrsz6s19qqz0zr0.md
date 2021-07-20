@@ -1,4 +1,4 @@
-## Programming League Competition: First experience.
+## Programming League Competition – First Experience
 
 For the last two Wednesday, I have participated in Programming League Competition hosted by [Persatuan Komputer Universiti Malaya (PEKOM)](https://www.instagram.com/pekomum/) . It was my first experience ever to compete in an online programming competition.
 
