@@ -130,4 +130,4 @@ Just understand the core principle of how it works, then pick and choose whateve
 
 Remember that the important thing is your ability to put things together, and solve a problem – tools are not important.
 
-Finally, I wish you all the best in your journey of to learn building a full-stack app. If you have any questions, feel free to [dm me on Twitter](https://twitter.com/afrieirham_) or leave a comment, I will try my best to answer your questions.
+Finally, I wish you all the best in your journey to learn building a full-stack app. If you have any questions, feel free to [dm me on Twitter](https://twitter.com/afrieirham_) or leave a comment, I will try my best to answer your questions.
