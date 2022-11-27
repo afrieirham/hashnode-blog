@@ -1,4 +1,4 @@
-## react + mailchimp
+# How to build mailchimp signup forms with React (or other JavaScript framework)
 
 I hope I make it clear enough what this article is all about based on the title. But to add on the title a little more, this article will work with any frontend JavaScript framework.
 
