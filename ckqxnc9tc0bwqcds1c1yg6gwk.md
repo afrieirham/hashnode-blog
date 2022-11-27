@@ -1,4 +1,4 @@
-## How to build a fullstack app?
+# Understanding FullStack Development
 
 # The Problem
 
