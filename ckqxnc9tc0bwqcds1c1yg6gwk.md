@@ -1,4 +1,4 @@
-# Understanding FullStack Development
+# What is Full Stack Development?
 
 # The Problem
 
