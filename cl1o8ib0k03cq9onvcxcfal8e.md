@@ -1,4 +1,4 @@
-## Your First Open-Source Contribution
+# How to Contribute to Open-Source Project on GitHub
 
 So you've been reading articles about how to become a better software developer on the internet and inevitably, you've stumbled upon one common advice across the articles – contribute to an open-source project.
 
