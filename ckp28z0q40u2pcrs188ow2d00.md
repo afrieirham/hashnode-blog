@@ -1,4 +1,12 @@
-## Job Hunting Sebagai Graduan Software Engineering
+---
+title: "Job Hunting Sebagai Graduan Software Engineering"
+datePublished: Mon May 24 2021 06:47:23 GMT+0000 (Coordinated Universal Time)
+cuid: ckp28z0q40u2pcrs188ow2d00
+slug: job-hunting-sebagai-graduan-software-engineering
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1621780722089/o43jmJ09T.jpeg
+tags: job-hunting, malay, malaysia, fresh-grad
+
+---
 
 Baru baru ni, saya berjaya graduate sebagai pelajar Sains Komputer di Universiti Malaya pada Januari 2021. Setelah hampir 5 tahun di universiti termasuk asasi, akhirnya saya bersedia untuk memasuki alam pekerjaan.
 
