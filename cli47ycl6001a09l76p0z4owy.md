@@ -3,11 +3,10 @@ title: "How To Squash Commits Locally"
 datePublished: Fri May 26 2023 07:05:52 GMT+0000 (Coordinated Universal Time)
 cuid: cli47ycl6001a09l76p0z4owy
 slug: how-to-squash-commits-locally
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685084799709/a94ec6d2-78d8-4cbf-92a2-69049d6d8091.webp
 tags: tutorial, github, opensource, version-control, git
 
 ---
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1685083185069/bb3ff72a-9cf5-47df-ba73-d01d5916b70e.png align="center")
 
 If you're like me, you're probably familiar with "squash and merge" when merging pull requests on GitHub.
 
