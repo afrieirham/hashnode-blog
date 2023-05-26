@@ -1,4 +1,12 @@
-## Kenapa Programmer Perlu Menulis Blog
+---
+title: "Kenapa Programmer Perlu Menulis Blog"
+datePublished: Sat Apr 17 2021 13:38:31 GMT+0000 (Coordinated Universal Time)
+cuid: cknlsd8bz04oelps16xa90gwg
+slug: kenapa-programmer-perlu-menulis-blog
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618666542759/rnB2tSxwH.jpeg
+tags: blogging, developer-blogging, malay, malaysia
+
+---
 
 Sejak beberapa tahun ini, semakin ramai pelajar di Malaysia yang berminat untuk belajar *coding* atau *programming*. Antara sebab utama ramai yang berminat untuk belajar *coding* adalah peluang pekerjaan yang tinggi, kebolehan membina aplikasi sendiri, peluang kerjaya secara *freelancing,* dan banyak lagi. Memang tidak dinafikan, skill *programming* ni adalah satu skill yang sangat berharga dan mempunyai permintaan yang tinggi dalam industri.
 
