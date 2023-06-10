@@ -49,7 +49,7 @@ While I don't claim myself as a financial guru whatsoever, I have done my resear
 
 It depends on your financial goals, risk appetite, financial situation and so on if you're thinking about doing it – as do everything else.
 
-But hearing my dad forbid me from even thinking about taking it is something that really puts me in an intense curiosity mode.
+But hearing my dad forbid me from even thinking about taking it is something that really puts me off.
 
 So I asked why.
 
