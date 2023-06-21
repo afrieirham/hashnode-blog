@@ -1,6 +1,6 @@
 ---
 title: "Stop buying Notion templates, create your own instead."
-datePublished: Wed Jun 21 2023 06:17:47 GMT+0000 (Coordinated Universal Time)
+datePublished: Sat Apr 23 2022 06:18:25 GMT+0000 (Coordinated Universal Time)
 cuid: clj5bonu9001209mj7vpmekuq
 slug: stop-buying-notion-templates-create-your-own-instead
 tags: templates, productivity, tools, notion
