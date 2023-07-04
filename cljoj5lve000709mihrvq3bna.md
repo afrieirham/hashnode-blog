@@ -57,7 +57,7 @@ However, you need to remember.
 
 Being honest is by far the most important thing here. If you're applying for jobs to explore what's out there, you can't pretend to be super committed as if you're planning to move.
 
-Just imagine you're in the recruiter's shoes. You've spent weeks, potentially months, interviewing candidates just for them to say that they're not actually looking to move, they're just there to browse.
+Just imagine you're in the recruiter's shoes. You've spent weeks, potentially months, interviewing candidates just for them to say that they're not actually looking to move at the last minute.
 
 Wouldn't you be angry?
 
