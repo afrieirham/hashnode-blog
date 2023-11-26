@@ -9,17 +9,14 @@ tags: life, luck
 
 Before we start, please read the QRTs from both Edd and Mu'azh.
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701008932368/16ad32aa-6e2e-482b-bb6e-50178fe09f55.png align="center")](https://twitter.com/okmuazh/status/1728647721727221845)
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701009437590/6cf93f31-a684-40ee-b725-3b4f0e9d010b.png align="center")](https://twitter.com/okmuazh/status/1728647721727221845)
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701009030894/b6fa7fc5-423d-4341-83e5-cc093e8ce7cd.png align="center")](https://twitter.com/thegrxyvibe/status/1728678498607550921)
-
-  
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701009520770/4d42d96e-266c-40c2-a998-6ac78fd0408a.png align="center")](https://twitter.com/thegrxyvibe/status/1728678498607550921)
 
 They both have presented a great point about luck
 
 > Keep working and grinding so that you're prepared to take advantage of luck when it comes.
 
-  
 Me however, I'm here to share about *how* to get lucky.
 
 Yes, luck is out of our control but we can increase the chance TO get lucky.
@@ -34,7 +31,6 @@ Also, the amount of "lucky things" that can happen in your neighbourhood is very
 
 Yes it's possible for idk Justin Bieber to come to your house, it's very unlikely, but it's not impossible.
 
-  
 (i have no better example so bear with me)
 
 It can happen tomorrow, or it can happen in the next 50 years, who knows.
@@ -63,7 +59,6 @@ If I never shared anything here, never post a blog, never write a LinkedIn artic
 
 If you were to take anything from this rant, please remember to do interesting stuff and share it.
 
-  
 You'll never know who's watching.
 
 It could be your next employer, it could be your future co-founder, it could be someone that can help you to land a job, nobody knows.
